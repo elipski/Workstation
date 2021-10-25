@@ -1,2 +1,2 @@
 # Workstation
-configurations and files for workstation
+configurations settings and files for workstation
